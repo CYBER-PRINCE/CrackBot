@@ -1,20 +1,20 @@
 {
-  "name": "CRACKBOT",
-  "description": "CrackBot Official Userbot by [Crackexy]t.me/crackexy). Have Nice Time ;)",
-  "logo": "https://telegra.ph/file/9c00ea558f8ace8b8b742.jpg",
+  "name": "TANZOID",
+  "description": "TANZOID  Userbot by [ARCUSE]t.me/ARCUSEOP). 🤤 best userbot ever;)",
+  "logo": "https://telegra.ph/file/36a3f99d636bc94601485.jpg",
     "keywords": [
     "telegram",
     "userbot",
     "plugin",
     "modular",
     "productivity",
-    "crackbot",
-    "CRACKBOT",
-    "Crackexy"
+    "tanzoid",
+    "TANZOID",
+    "arcuse"
   ],
-  "repository": "https://github.com/Crackexy/CrackBot",
-  "website": "#TODO",
-  "success_url": "#TODO",
+  "repository": "https://github.com/CYBER-PRINCE/TENZOID",
+  "website": "#nah😏",
+  "success_url": "#nah😏",
   "env": {
     "ENV": {
       "description": "Setting this to ANYTHING will enable heroku.",
@@ -26,11 +26,106 @@
       "required": false
     },
     "ALIVE_NAME": {
-      "description": "Fill your Full name you want to see in .alive command.",
+      "description": "username like -> @arcuseop.",
       "value": ""
     },
     "APP_ID": {
+      "description": "Get this valuefrom my.telegram.org! Please do no  "success_url": "#nah😏",
+  "env": {
+    "ENV": {
+      "description": "Setting this to ANYTHING will enable heroku.",
+      "value": "ANYTHING"
+    },
+    "TEMP_DOWNLOAD_DIRECTORY": {
+      "description": "Where downloaded files will go.",
+      "value": "./userbot/DOWNLOADS/",
+      "required": false
+    },
+    "ALIVE_NAME": {
+      "description": "username like -> @arcuseop.",
+      "value": ""
+    },
+    "APP_ID": {
+      "description": "Get this valuefrom my.telegram.org! Please do not steal",
+      "value": ""
+    },
+    "REM_BG_API_KEY": {
+      "description": "Required for Removing image background functionality. Get from https://www.remove.bg/",
+      "value": "",
+      "required": false
+    },
+    "LYDIA_API_KEY": {
+      "description": "Needed for Lydia AI. Follow https://telegra.ph/Lydia-09-05 to get your API.",
+      "value": "",
+      "required": false
+    },
+    "API_HASH": {
       "description": "Get this value from my.telegram.org! Please do not steal",
+      "value": ""
+    },
+    "PLUGIN_CHANNEL": {
+      "description": "Create a private group add rose  then type /id. PLUGIN_CHANNEL and PRIVATE_GROUP_ID both values should be same",
+      "value": ""
+    },
+    "PRIVATE_GROUP_ID": {
+      "description": "Create a private group add rose bot then type /id. PLUGIN_CHANNEL and PRIVATE_GROUP_ID both values should be same",
+      "value": ""
+    },
+    "STRING_SESSION": {
+      "description": "Get this value from https://fridayuserbot.midhunkm1294bit.repl.run",
+      "value": ""
+    },
+    "GITHUB_ACCESS_TOKEN": {
+      "description": "Your Github Access Token for gitcommit plugin.Google 'Github access token' to find.",
+      "value": "",description": "Needed for Lydia AI. Follow https://telegra.ph/Lydia-09-05 to get your API.",
+      "value": "",
+      "required": false
+    },
+    "API_HASH": {
+      "description": "Get this value from my.telegram.org! Please do not steal",
+      "value": ""
+    },
+    "PLUGIN_CHANNEL": {
+      "description": "Create a private group add rose  then type /id. PLUGIN_CHANNEL and PRIVATE_GROUP_ID both values should be same",
+      "value": ""
+    },
+    "PRIVATE_GROUP_ID": {
+      "description": "Create a private group add rose bot then type /id. PLUGIN_CHANNEL and PRIVATE_GROUP_ID both values should be same",
+      "value": ""
+    },
+    "STRING_SESSION": {
+      "description": "Get this value from https://fridayuserbot.midhunkm1294bit.repl.run",
+      "value": ""
+    },
+    "GITHUB_ACCESS_TOKEN": {
+      "description": "Your Github Access Token for gitcommit plugin.Google 'Github access token' to find.",
+      "value": "",
+      "required": false
+    },
+    "GIT_REPO_NAME": {
+      "description": "Your repo name Example: midhunkm1294/Friday, but GITHUB_ACCESS_TOKEN must be setup first.",
+      "value": "https://github.com/Crackexy/CrackBot",
+      "required": false
+    },t steal",
+      "value": ""
+    },
+    "REM_BG_API_KEY": {
+      "description": "Required for Removing image background functionality. Get from https://www.remove.bg/",
+      "value": "",
+      "required": false
+    },
+    "LYDIA_API_KEY": {
+      "description": "Needed for Lydia AI. Follow https://telegra.ph/Lydia-09-05 to get your API.",
+      "value": "",
+      "required": false
+    },
+      "required": false
+    },
+    "GIT_REPO_NAME": {
+      "description": "Your repo name Example: midhunkm1294/Friday, but GITHUB_ACCESS_TOKEN must be setup first.",
+      "value": "https://github.com/Crackexy/CrackBot",
+      "required": false
+    },t steal",
       "value": ""
     },
     "REM_BG_API_KEY": {
